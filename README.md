@@ -7,5 +7,7 @@
 - 矢印キーでの視点移動をできなくしました。
 - TurboWarpでコンパイルしました。
 - TurboWarp Packagerでパッケージしました。
+## sb3ソースコード
+[3d-athletic.sb3](3d-athletic.sb3)
 ## ライセンス
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
